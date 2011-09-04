@@ -65,7 +65,7 @@ setup(
     long_description = readme_content,
     author = 'Yuanhao Li',
     author_email = 'yuanhao.li [at] gmail [dot] com',
-    # url = 'http://github.com/*/mongol/',
+    url = 'https://github.com/yuanhao/mongol/',
     packages = ['mongol', ],
     install_requires = requirements,
     license = 'New BSD License',
